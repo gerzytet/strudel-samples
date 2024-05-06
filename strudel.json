@@ -1,7 +1,8 @@
+
 {
-    "_base": "https://raw.githubusercontent.com/gerzytet/strudel-samples/main/",
+    "_base": "https://github.com/gerzytet/strudel-samples/raw/main/",
     "rash": {
-        "c4": "note%20060.wav"
+        "c4": "rash/note-012.wav"
     }
   }
   
